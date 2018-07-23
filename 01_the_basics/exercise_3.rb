@@ -1,5 +1,3 @@
-require "pry"
-
 movies_year = {
 	"When Harry Met Sally": "1985",
 	"Toy Story": "1997",

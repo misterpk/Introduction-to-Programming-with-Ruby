@@ -1,5 +1,3 @@
-require "pry-byebug"
-
 def capitalize_string(sentence)
   sentence = sentence.to_s
   if sentence.length > 10

@@ -1,5 +1,3 @@
-require "pry-byebug"
-
 puts "Enter a number between 0 and 100:"
 user_input = gets.chomp.to_i
 
